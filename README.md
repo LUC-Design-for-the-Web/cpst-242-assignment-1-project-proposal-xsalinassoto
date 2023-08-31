@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11690583&assignment_repo_type=AssignmentRepo)
 # Overview
 
 Assignment 1 is a project proposal and will need to be coded as an HTML page using semantic HTML5 tags. Ten or more distinct tags must be used within the body of your document when providing structure to the content of your proposal.  The one-page HTML document will implement each of the first 3 requirements.  Requirement 4 gives instructions on how you will submit and upload your work.
